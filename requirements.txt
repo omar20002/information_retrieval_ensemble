@@ -1,0 +1,7 @@
+nltk
+requests
+beautifulsoup4
+transformers
+scikit-learn
+gensim
+tqdm
